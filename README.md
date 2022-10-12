@@ -19,6 +19,6 @@ and gauged discharge for point g.
 On page 1878 in the first column and the first paragraph, the logs of h, q, hfit and qfit were taken
 for all sections except the uppermost.
 
-#Run the code
+# Run the code
 
 To run the code with the example data, use command VPlogistic_3seg('VPMratingdata')
