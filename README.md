@@ -13,6 +13,8 @@ Please cite both papers if using this code.
 
 Note two small corrections to the text in McMillan and Westerberg (2015) as follows:
 
-On page 1877 in the first column and the last paragraph, the proportion of the space of gauging points was calculated in log space only for the lowest section of the rating curve and in linear space for the other sections.
+On page 1877 in the second column and the last paragraph Rg should be the ratio between rated
+and gauged discharge for point g.
 
-On the same page in the second column and the last paragraph Rg should be the ratio between rated and gauged discharge for point g.
+On page 1878 in the first column and the first paragraph, the logs of h, q, hfit and qfit were taken
+for all sections except the uppermost.
